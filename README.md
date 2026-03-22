@@ -1,2 +1,3 @@
 # zs-content-forms-ncd
-ZarishSphere clinical forms: ncd
+
+Generated directly from internal PRD specification.
